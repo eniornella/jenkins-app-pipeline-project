@@ -22,7 +22,7 @@
 <div class="header">
  
   <p>This Java Web Application Was Deployed Using CI/CD</p>
-  <h1>welcome to captivator technology</h1
+  <h1>Welcome To Captivator Technology CO</h1
   
 
 </div>
