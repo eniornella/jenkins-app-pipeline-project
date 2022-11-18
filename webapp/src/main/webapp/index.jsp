@@ -10,7 +10,7 @@
   padding: 80px;
   text-align: center;
   background: #1a38bc;
-  color: white;
+  color: Red;
 }
 /* Increase the font size of the heading */
 .header h1 {
@@ -22,6 +22,8 @@
 <div class="header">
   <h1>Hello JJ Tech Family !!!</h1>
   <p>This Java Web Application Was Deployed Using CI/CD</p>
+  <h1>new version deployment</h1>
+
 </div>
 </body>
 </html>
